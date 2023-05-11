@@ -1,0 +1,9 @@
+* cl-gserver
+
+Actor framework featuring actors and agents.
+
+|---------+------------------------------------------------------------------------------|
+| source  | file:https://github.com/mdbergmann/cl-gserver/archive/refs/tags/3.0.3.tar.gz |
+| version | 3.0.3                                                                        |
+| systems | sento                                                                        |
+|---------+------------------------------------------------------------------------------|
