@@ -3,7 +3,7 @@
 Actor framework featuring actors and agents.
 
 |---------+------------------------------------------------------------------------------|
-| source  | file:https://github.com/mdbergmann/cl-gserver/archive/refs/tags/3.4.1.tar.gz |
-| version | 3.4.1                                                                        |
+| source  | file:https://github.com/mdbergmann/cl-gserver/archive/refs/tags/3.4.2.tar.gz |
+| version | 3.4.2                                                                        |
 | systems | sento                                                                        |
 |---------+------------------------------------------------------------------------------|
